@@ -1,4 +1,4 @@
-Este programa resuelve mediante el método de Feautrier, la ecuación de transporte para una atmósfera en la aproximación plano-paralela estacionaria. 
+Este programa resuelve mediante el método de Feautrier, la ecuación de transporte para una atmósfera estelar en la aproximación plano-paralela y suponiendola estacionaria. 
 Para ejecutarlo, necesita tener instalado python 3 y las librerías numpy, matplotlib, scipy y PyQt5.
 Luego solo hay que descargar los archivos a su computadora y ejecutar en la terminal con "python3 Feautrier_clase.py", "python3 quadrature.py", "python3 results.py" y "python3 solucion.py" 
 Luego ejecutar "python3 interface.py" 
